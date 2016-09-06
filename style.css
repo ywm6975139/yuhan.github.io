@@ -401,11 +401,11 @@ header {
 
 /* footer -------------------------- */
 .main {
-    padding-bottom: 390px;
+    padding-bottom: 0px;
 }
 footer {
     height: 390px;
-    margin: -390px 0 0;
+    margin: -200px 0 0;
     text-align: center;
     position: relative;
 }
