@@ -339,7 +339,7 @@ h3 {
 
 /* header -------------------------- */
 header {
-    padding: 10px 0 5px;
+    padding: 10px 0 0px;
 }
 .logo {
     float: left;
@@ -351,7 +351,7 @@ header {
 }
 .social {
     float: right;
-    padding: 19px 0 50px;
+    padding: 19px 0 5px;
 }
 .social li {
     float: left;
