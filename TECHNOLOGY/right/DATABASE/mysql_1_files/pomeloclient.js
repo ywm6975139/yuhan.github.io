@@ -594,12 +594,7 @@
    *
    * @memberOf pomelo
    */
-  pomelo.disconnect = function() {
-    if (socket) {
-      socket.disconnect();
-      socket = null;
-    }
-  };
+
 
   /**
    * Ack message to server side
